@@ -1,22 +1,12 @@
-### Olá! Eu sou a Alice Kathlyn
+Olá! 👋
+Meu nome é Alice Kathlyn e sou estudante de Análise e Desenvolvimento de Sistemas. Estou sempre buscando aprender mais sobre programação e desenvolvimento de software.
 
-<div>
-<a href="https://www.linkedin.com/in/alice-kathlyn-4148a3244">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AliceKAndrade&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliceKAndrade&layout=compact&langs_count=16&theme=radical"/>
-</div>
-
-<div style="display: inline_block"><br>
- 
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
- ##
- 
- <div> 
-  <a href="https://instagram.com/alicekandrade" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:alicekathlynfaria@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alice-kathlyn-4148a3244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+🚀 Skills
+HTML5, CSS3 e JavaScript.
+Habilidades em trabalho em equipe, comunicação e proatividade.
+📈 GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliceKAndrade&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliceKAndrade&layout=compact&langs_count=16&theme=radical"/> </div>
+📫 Entre em contato
+LinkedIn: https://www.linkedin.com/in/alice-kathlyn-4148a3244
+Sinta-se à vontade para entrar em contato comigo para discutir possíveis projetos ou trocar conhecimentos na área de desenvolvimento de software. Obrigada pela visita! 🙌
  
